@@ -1,1 +1,5 @@
 /venv
+/.streamlit
+/output
+/uploads
+.env
