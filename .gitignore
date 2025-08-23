@@ -3,3 +3,5 @@
 /output
 /uploads
 .env
+new_venv
+models
